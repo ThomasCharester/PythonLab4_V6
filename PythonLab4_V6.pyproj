@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b14edb7c-ef84-4322-8b50-ac1c822e8f95</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonLab4_V6.py</StartupFile>
+    <StartupFile>PythoonLab4_3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="PythonLab4_2.py" />
     <Compile Include="PythonLab4_V6.py" />
+    <Compile Include="PythoonLab4_3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
